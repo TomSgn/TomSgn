@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tom I'm an Student in IT at Epitech --> European Institute of Technology im intrestesed (CyberSecurity) (Pentesting) (Web) (Jailbreak)
+My name is Tom I'm an Student in IT at Epitech --> European Institute of Technology im interessed (CyberSecurity) (Pentesting) (Web) (Jailbreak)
 
 - 👨‍💻 Technologies : C, C++, Python, JS, Java
 - 🌱 Actually Learning : Rust, Kotlin 
