@@ -3,7 +3,7 @@
 My name is Tom I'm an Student in IT at Epitech --> European Institute of Technology im interested (DevSecOps) (CyberSecurity) (Pentesting) (Web) (Jailbreak)
 
 - 👨‍💻 Technologies : C, C++, Python, JS, Java
-- 🌱 Actually Learning : Rust, Flutter
+- 🌱 Actually Learning : Rust, Flutter, ReactJS
 
 - 💬 Ask me about New Technologies and Industries
 - ✈️ Travels : USA, Espagna, Italia, England, Portugal
