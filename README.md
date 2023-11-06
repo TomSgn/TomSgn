@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tom I'm an IT Student at Epitech --> European Institute of Technology im interested (DevSecOps) (CyberSecurity) (Pentesting) (Web) (Jailbreak)
+My name is Tom I'm an IT Student at Epitech --> European Institute of Technology im interested (DevSecOps) (Cybersecurity) 
 
 - 👨‍💻 Technologies : C, C++, Python, Terraform, Js/Ts,  ReactJS, Docker, AWS(Cloud)
 - 🌱 Actually Learning : Rust, Ruby, Java/Kotlin, Flutter
