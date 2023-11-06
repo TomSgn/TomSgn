@@ -12,4 +12,4 @@ My name is Tom I'm an IT Student at Epitech --> European Institute of Technology
 - 😛 Hobbies: Mode, Video Games, Sports, pop culture
 - ⚡ Fun fact: in 2018 I was not in France for the World Cup it's sad ⚽
 
-- ![Galaxy Gifs 6](https://cache.teia.rocks/ipfs/QmY9oaA5ZemALEWJFcz7un1kSUCAVTmEyqthXDMNV2bj65)
+- ![Galaxy Gifs 6](https://i.gifer.com/GYjV.gif)
