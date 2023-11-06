@@ -1,4 +1,4 @@
-![image](https://github.com/TomSgn/TomSgn/assets/62591045/a8b68410-4a17-44d3-8891-7cf9e6b32d49)### Hi there 👋
+### Hi there 👋
 
 My name is Tom I'm an IT Student at Epitech --> European Institute of Technology I'm DevSecOps & Security Engineer
 
