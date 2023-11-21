@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tom, and I am a student of IT at Epitech, which stands for the European Institute of Technology. I specialize in DevSecOps and Security Engineering.
+My name is Tom, and I am a French student of IT at Epitech, which stands for the European Institute of Technology. I specialize in DevSecOps and Security Engineering.
 
 - 👨‍💻 Technologies: C, C++, Python, Terraform, Js/Ts,  ReactJS, Docker, AWS(Cloud)
 - 🌱 Learning: Rust, Ruby, Java/Kotlin, Flutter
