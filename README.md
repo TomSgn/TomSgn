@@ -55,4 +55,6 @@ graph TD;
     G --> I(AWS);
     G --> J(Terraform);
 ```
+```md
 ![Galaxy Gifs 6](https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-3.gif)
+```
