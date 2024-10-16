@@ -26,13 +26,14 @@ I’m into pentesting and security, always on the lookout for vulnerabilities an
 
 ## 🌍 Travels:
 I love traveling and have visited:
-- 🇺🇸 USA
+- 🇧🇪 Belgium
 - 🇪🇸 Spain
 - 🇮🇹 Italy
+- 🇺🇸 USA
 - 🇬🇧 England
-- 🇵🇹 Portugal
 - 🇹🇭 Thailand
 - 🇶🇦 Qatar
+- 🇵🇹 Portugal
 
 ## 🎮 Hobbies:
 - Fashion 👗
@@ -50,9 +51,11 @@ graph TD;
     A --> C(Python);
     A --> D(JavaScript/TypeScript);
     A --> E(Rust);
-    D --> F(ReactJS);
-    G[Tools] --> H(Docker);
-    G --> I(AWS);
-    G --> J(Terraform);
+    A --> F(ReactJS);
+    A --> G(Bash); 
+    H[Infrastructure & Container] --> I(Docker);
+    H --> J(AWS);
+    H --> K(Terraform);
+    H --> L(Kubernetes);
 ```
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
