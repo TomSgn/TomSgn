@@ -36,7 +36,7 @@ I love traveling and have visited:
 
 ## 🎮 Hobbies:
 - Fashion 👗
-- Riding 🏇
+- Motorcycle 🏍️
 - Sports 🏋️‍♂️
 - Pop culture 🎥
 
@@ -55,4 +55,4 @@ graph TD;
     G --> I(AWS);
     G --> J(Terraform);
 ```
-- ![Galaxy Gifs 6](https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-3.gif)
+![Galaxy Gifs 6](https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-3.gif)
