@@ -13,13 +13,11 @@ I’m **Tom**, a passionate IT student at **Epitech** (European Institute of Tec
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square)
+
 
 📈 **Current Learning:**
-- ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square)
-- ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat-square)
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
 
 ## 💻 Pentesting
 I’m into pentesting and security, always on the lookout for vulnerabilities and improvements in security measures!
