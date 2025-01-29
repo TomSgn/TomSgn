@@ -15,10 +15,6 @@ I’m **Tom**, a passionate DevOps. I love to explore and work with modern techn
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square)
 
-
-📈 **Current Learning:**
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-
 ## 💻 Pentesting
 I’m into pentesting and security, always on the lookout for vulnerabilities and improvements in security measures!
 
