@@ -35,9 +35,6 @@ I love traveling and have visited:
 - Sports 🏋️‍♂️
 - Pop culture 🎥
 
-## 🚀 Fun Fact:
-If I had a dollar for every Kubernetes pod I’ve deployed, I’d be competing with Elon for Mars!
-
 ## 📟 Diagram: My Technology Stack
 ```mermaid
 graph TD;
