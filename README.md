@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I’m **Tom**, a passionate IT student at **Epitech** (European Institute of Technology), specializing in **DevOps** and **Security**. I love to explore and work with modern technologies and keep up-to-date with the latest trends in the industry.
+I’m **Tom**, a passionate DevOps. I love to explore and work with modern technologies and keep up-to-date with the latest trends in the industry.
 
 ## 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
