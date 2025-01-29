@@ -4,8 +4,6 @@
 I’m **Tom**, a passionate DevOps. I love to explore and work with modern technologies and keep up-to-date with the latest trends in the industry.
 
 ## 🛠️ Tech Stack:
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -14,6 +12,8 @@ I’m **Tom**, a passionate DevOps. I love to explore and work with modern techn
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 
 ## 💻 Pentesting
 I’m into pentesting and security, always on the lookout for vulnerabilities and improvements in security measures!
